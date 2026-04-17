@@ -59,3 +59,9 @@ git clone https://github.com/irsanai/irsanai-hfar-engine.git
 cd irsanai-hfar-engine
 
 # GitHub Page ist bereits live – keine weitere Installation nötig
+
+Lizenz
+MIT License – Teil des IrsanAI Universe
+Back to Universe → IrsanAI-Universe
+
+Generiert mit ❤️ und Trial-and-Error von Grok + IrsanAI
